@@ -1,0 +1,4 @@
+TYPE_A = 1
+TYPE_NS = 2
+
+CLASS_IN = 1
